@@ -16,4 +16,5 @@ const indice = busquedaLineal(arreglo, elementoBuscado);
 console.log(`El elemento ${elementoBuscado} se encuentra en el
 índice ${indice}.`);
 console.log( "este programa se esta probando por segunda vez" );
+console.log("este es la tercera prueba");
 
